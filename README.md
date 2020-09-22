@@ -1,0 +1,2 @@
+# Nginx
+for Fars Nginx
